@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Samay</h1>
-<h3 align="center">Exploring the intersection of Machine Learning, and Robotics - one commit at a time. Welcome to my GitHub profile!</h3>
+<h3 align="center">Exploring the intersection of Machine Learning, and Robotics - one commit at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samaypashine&label=Profile%20views&color=0e75b6&style=flat" alt="samaypashine" /> </p>
 
@@ -53,7 +53,8 @@
   </a>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
-
+  
+  <div>
   <img src="https://th.bing.com/th/id/OIP.RGxc-vcauLhnNDkAvBWKZgHaFx?pid=ImgDet&rs=1" title="Kali" **alt="Kali" width="40" height="40"/>&nbsp;
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS"  alt="ROS" width="40" height="40"/>&nbsp;
@@ -65,7 +66,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
-
+  </div>
+  
   
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
