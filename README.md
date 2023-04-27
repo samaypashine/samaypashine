@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Robots:</h3>
-  <img src="https://www.knottsco.com/hs-fs/hubfs/Mfg-Logos/UR_Logotype.jpg?width=640&name=UR_Logotype.jpg" title="UR5" **alt="UR5" width="250" height="50"/>&nbsp; <a href="https://niryo.com" title="NIRYO, Deep Simple, Deep Tech, for Human Good"> <img src="https://niryo.com/wp-content/themes/niryo-france/images/logo-niryo-blanc.svg" title="NIRYO, Deep Simple, Deep Tech, for Human Good" alt="NIRYO, Deep Simple, Deep Tech, for Human Good"> </a> ![image](https://user-images.githubusercontent.com/51475380/235004651-46d0b82f-922f-4d31-aa33-5e2942f7f849.png)
+  <img src="https://www.knottsco.com/hs-fs/hubfs/Mfg-Logos/UR_Logotype.jpg?width=640&name=UR_Logotype.jpg" title="UR5" **alt="UR5" width="250" height="50"/>&nbsp; <a href="https://niryo.com" title="NIRYO, Deep Simple, Deep Tech, for Human Good"> <img src="https://niryo.com/wp-content/themes/niryo-france/images/logo-niryo-blanc.svg" title="NIRYO, Deep Simple, Deep Tech, for Human Good" alt="NIRYO, Deep Simple, Deep Tech, for Human Good"> </a> <img src="https://user-images.githubusercontent.com/51475380/235004651-46d0b82f-922f-4d31-aa33-5e2942f7f849.png" title="Kinova" **alt="Kinova" width="250" height="50"/>&nbsp;
 
 
 <h3 align="left">Languages and Tools:</h3>
