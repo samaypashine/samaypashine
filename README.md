@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<h1 align="center">Hi 👋, I'm Samay</h1>
+<h1 align="center">Hi 👋, I'm [Samay](https://samaypashine.github.io)</h1>
 <h3 align="center">Leveraging expertise in Deep Learning, Computer Vision, and Data Science to solve real-world problems across diverse industries - one commit at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samaypashine&label=Profile%20views&color=0e75b6&style=flat" alt="samaypashine" /> </p>
