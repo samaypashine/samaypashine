@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<h1 align="center">Hi 👋, I'm [Samay](https://samaypashine.github.io)</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://samaypashine.github.io" target="blank">Samay</h1>
 <h3 align="center">Leveraging expertise in Deep Learning, Computer Vision, and Data Science to solve real-world problems across diverse industries - one commit at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samaypashine&label=Profile%20views&color=0e75b6&style=flat" alt="samaypashine" /> </p>
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samay pashine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samay pashine" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samaypashine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samay pashine" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Robots:</h3>
